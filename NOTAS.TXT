@@ -1,0 +1,2 @@
+ls -al  : Muestra todos los archivos dentro de la carpeta, incluidos los ocultos
+ls -a   : Muestra todos los archivos como una lista.
