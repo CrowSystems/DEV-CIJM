@@ -1,0 +1,59 @@
+-Notas del curso de HTML y CSS PLatzi nivel Basico.
+
+HTML: 
+    Estructura de los documentos que se visualizan en los navegadores
+    Chrome, Edge, Firefox, etc. Es el Lenguaje con el que se clasificamos
+
+FRONTEND:
+
+BACKEND:
+    En programación corresponde al lado opuesto a un front-end en un sitio web
+
+FULL STACK:
+    En termino utilizado para describir a los desarrolladores que conocen tanto
+    los lenguajes de frontend como backend. Principalmente, el desarrollo full stack
+    se refiere al uso de JavaScript en el backendy de HTML / CSS / JavaScript en el frondtend
+    para crear nuevas plataformas.
+
+    El nacimiento de tecnologías que funcionan entre el frontend 
+
+Páginas Estaticas y Páginas Dinamicas
+
+Páginas Estaticas:
+    La informacion que se mantiene constante y estática. No se actualiza con la interacción de
+    usuario. Es conveniente para realizar Landing pages (páginas informativas o de aterrizaje)
+    o blogs, se mostrarán siempre iguales para todos los usuarios.
+    Ejemplos:
+    - Menú de un restaurante.
+    - Blog de viajes.
+    - Página informativa de un negocio.
+
+
+Páginas Dinamicas:
+        También conocidos como aplicaciones web, actualizan su información con respecto a la
+        interaccion del usuario. Dependen de una base de datos, de donde extrae e ingresa 
+        información. Serán diferentes dependiendo del usuario que la use y la información que
+        se ingrese.
+    
+
+Estructura Basica de HTML en la Página Web.
+    Container: Contenedor principal.
+    Header: cabecera de la página. Aquí usualmente encuentras el logo y el menú de navegación del
+    sitio.
+    Main content: estructura principal. Por ejemplo, el feed o lista de publicaciones de una red socila.
+    Sidebar: contenido secundario de una página, que usualmente se encuentra a los lados del contenido 
+    principal (om main).
+    Footer pie de página. Esto se encuentra al fondo del sitio web, salvo en casos de los sitios web 
+    donde el scroll (o navegación hacia abajo) es infinito, por ende, no tendría sentido ponerlo al fondo.
+
+    Las etiquetas en HTML nos ayudan a diferencial en qué parte del contenido nos encontramos.
+
+    La web se conforma de tres conceptos:
+    URL:
+    HTTP:
+    HTML:
+Documentiación:
+
+HTML: https://devdocs.io/html/
+CSS: https://devdocs.io/css/
+JavaScript: https://devdocs.io/javascript/
