@@ -1,1 +1,9 @@
 *******Notas****
+Un sitio web funciona correctamente gracias a la participación de diversos tipor de archivos. Por lo tanto,
+antes de empezar a crear nuestro primer sitio web debemos repasar un concepto fundamental relacionado con
+la estructura de archivos.
+
+Estructura de un archivo:
+
+Se trata de uno de los conceptos más faciles de asimilar en el universo de los sistemas operativos. Nada más
+
