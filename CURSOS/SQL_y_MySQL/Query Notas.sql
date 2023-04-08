@@ -27,6 +27,7 @@ CREATE TABLE IF NOT EXISTS client(
     updated_at
 )
 
+ /* TIPOS DE INSERT*/
 INSERT INTO authors(author_id, name, nationality)
 VALUES('','Juan Rulfo','MEX');
 
@@ -40,3 +41,13 @@ INSERT INTO authors(name, nationality)
 VALUES('Julio Cortázar', 'ARG'),
     ('Isabel Allende', 'CHI'),
     ('Octavio Paz','MEX');
+
+INSERT INTO `clients`(client_id, name, email, birthdate, gender, active)
+VALUES(1,'Maria Dolores Gomez','MariaDolores.95983222@random.names','1971-06-06'
+);
+
+INSERT INTO books(title,author_id)
+VALUES('El laberinto de la Soledad',6);
+
+INSERT INTO books(title, author_id, `year`)
+VALUES('Vuelta al laberinto de la soledad',);
