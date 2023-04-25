@@ -10,4 +10,12 @@ Cadenas y entradas:
 Entradas:
      Python tiene la funcion input para recibir datos del usuario del programa.
      Input siempre regresa cadenas, por lo que si queremos utilizar otro tipo, tenemos que hacer type casting.
-     
+
+
+Interaciones (loops)
+    La mayoria de la tareas computacionales nose pueden lograr con ramificaciones.
+    Cuando queremos que un programa haga lo mismo varias veces, utilizamos interaciones.
+    Se pueden escribir interaciones dentro de interaciones.
+    Podemos utilizar break para salir anticipadamente de una iteración.
+    Tener cuidado de interaciones infinitas.
+    
