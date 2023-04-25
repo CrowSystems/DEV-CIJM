@@ -1,0 +1,13 @@
+Variables:
+    Pueden contener mayúsculas, minusculas
+
+    Hacen los programas más comprensibles.
+    Son simplemente nombres que apuntan a un valor.
+
+Cadenas y entradas:
+    Son secuencia de caracteres.
+    Los objetos de
+Entradas:
+     Python tiene la funcion input para recibir datos del usuario del programa.
+     Input siempre regresa cadenas, por lo que si queremos utilizar otro tipo, tenemos que hacer type casting.
+     
