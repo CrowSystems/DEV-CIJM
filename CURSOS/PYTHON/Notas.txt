@@ -18,4 +18,23 @@ Interaciones (loops)
     Se pueden escribir interaciones dentro de interaciones.
     Podemos utilizar break para salir anticipadamente de una iteración.
     Tener cuidado de interaciones infinitas.
-    
+
+Bucle FOR
+    iterable es una colección de objetos
+    variable es un elemento especifico que se esta exponiendo meiante el bucle en cada interación.
+
+Iterables:
+En Python, un iterable es un objeto que se puede utilizar en un bucle definido.
+Si un objeto es iterable significa que se puede pasar como argumento a la función iter.
+El iterable que se pasa como parámetro a la función iter.
+
+iter('cadena') # cadena
+iter(['a','b','c']) # lista
+iter(('a','b','c')) # tupla
+iter({'a','b','c'}) # conjunto
+iter({'a':1,'b':2,'c':3}) #Diccionario
+
+Todas las llamadas anteriores regresan un objeto de tipo iterado.
+¿Qué pasa si la pasamos a la función iter a un objeto que no es iterable?
+Obtendremos un TypeError que señala que el objeto no es un iterable.
+Esto es un ejemplo de programación defensiva en el que python verifica el tipo del objeto antes de proceder al cómputo.

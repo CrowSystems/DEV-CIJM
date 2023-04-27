@@ -1,0 +1,7 @@
+Que es la terminal.
+    Es una interfaz gráfica que simula una línea de comandos.
+    Cuando hablamos de una línea de comandos nos referimos a una shell.
+TERMINAL: Ventanita que nos muestra el promt. esta alojada a la shell.
+LINEA DE COMANDOS (shell): Un programa que toma comandos y los pasa al
+                            sistema operativo para hacer algo.
+                             
