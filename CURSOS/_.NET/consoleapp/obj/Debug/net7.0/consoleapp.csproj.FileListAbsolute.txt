@@ -1,0 +1,15 @@
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\consoleapp\bin\Debug\net7.0\consoleapp.exe
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\consoleapp\bin\Debug\net7.0\consoleapp.deps.json
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\consoleapp\bin\Debug\net7.0\consoleapp.runtimeconfig.json
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\consoleapp\bin\Debug\net7.0\consoleapp.dll
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\consoleapp\bin\Debug\net7.0\consoleapp.pdb
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\consoleapp\obj\Debug\net7.0\consoleapp.csproj.AssemblyReference.cache
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\consoleapp\obj\Debug\net7.0\consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\consoleapp\obj\Debug\net7.0\consoleapp.AssemblyInfoInputs.cache
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\consoleapp\obj\Debug\net7.0\consoleapp.AssemblyInfo.cs
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\consoleapp\obj\Debug\net7.0\consoleapp.csproj.CoreCompileInputs.cache
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\consoleapp\obj\Debug\net7.0\consoleapp.dll
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\consoleapp\obj\Debug\net7.0\refint\consoleapp.dll
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\consoleapp\obj\Debug\net7.0\consoleapp.pdb
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\consoleapp\obj\Debug\net7.0\consoleapp.genruntimeconfig.cache
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\consoleapp\obj\Debug\net7.0\ref\consoleapp.dll

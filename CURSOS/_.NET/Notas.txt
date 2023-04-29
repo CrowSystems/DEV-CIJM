@@ -10,4 +10,11 @@ código abierto.
 Preformance:
 rendimiento.
 
-SS
+Caracteristicas de un archivo .csproj
+    - El archivo consoleapp.csproj no contiene nada de lógica, es un archivo de configucarción
+    - Tiene un formato XML
+    - En la parte superior se especifica un SDK, este varía de acuerdo al tipo de proyecto con el que estamos trabajando.
+    - El OutputType es el resultado que tendriamos de la publicacion del proyecto.
+    - El TergetFramework es la version del Framework con la cual se estáejecutando el proyecto.
+    - El ImplicitUsin nos ayuda a que no tengamos que especificar las librerías que vayamos a necesitar dentro de nuestros archivos de código.
+    
