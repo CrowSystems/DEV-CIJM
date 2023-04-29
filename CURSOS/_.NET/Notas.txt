@@ -1,0 +1,13 @@
+Que es .net
+.NET es una plataforma de desarrollo creada por Microsoft,
+es una coleccion de libreria que nos permite crear cualquier
+tipo de aplicaciones para difrentes plataformas utilizando SDK
+
+SDK: (Software development kit)
+kit de desarrollo de software.
+Open sourse:
+código abierto.
+Preformance:
+rendimiento.
+
+SS

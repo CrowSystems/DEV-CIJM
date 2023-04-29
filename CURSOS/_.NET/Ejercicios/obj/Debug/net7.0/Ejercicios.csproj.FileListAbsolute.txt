@@ -1,0 +1,15 @@
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\Ejercicios\bin\Debug\net7.0\Ejercicios.exe
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\Ejercicios\bin\Debug\net7.0\Ejercicios.deps.json
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\Ejercicios\bin\Debug\net7.0\Ejercicios.runtimeconfig.json
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\Ejercicios\bin\Debug\net7.0\Ejercicios.dll
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\Ejercicios\bin\Debug\net7.0\Ejercicios.pdb
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\Ejercicios\obj\Debug\net7.0\Ejercicios.csproj.AssemblyReference.cache
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\Ejercicios\obj\Debug\net7.0\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\Ejercicios\obj\Debug\net7.0\Ejercicios.AssemblyInfoInputs.cache
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\Ejercicios\obj\Debug\net7.0\Ejercicios.AssemblyInfo.cs
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\Ejercicios\obj\Debug\net7.0\Ejercicios.csproj.CoreCompileInputs.cache
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\Ejercicios\obj\Debug\net7.0\Ejercicios.dll
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\Ejercicios\obj\Debug\net7.0\refint\Ejercicios.dll
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\Ejercicios\obj\Debug\net7.0\Ejercicios.pdb
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\Ejercicios\obj\Debug\net7.0\Ejercicios.genruntimeconfig.cache
+D:\CarlosIDM\Documents\DEV-CIJM\CURSOS\_.NET\Ejercicios\obj\Debug\net7.0\ref\Ejercicios.dll
