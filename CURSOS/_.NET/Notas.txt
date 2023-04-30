@@ -18,3 +18,42 @@ Caracteristicas de un archivo .csproj
     - El TergetFramework es la version del Framework con la cual se estáejecutando el proyecto.
     - El ImplicitUsin nos ayuda a que no tengamos que especificar las librerías que vayamos a necesitar dentro de nuestros archivos de código.
     
+Archivos de compilación
+    Archivo Global JSON
+    El archivo Global JSON en un archivo que nos permite administrar las versiones de SDK con los que trabaja .NET
+        dotnet new globaljson
+
+"allowPrereleas: false", -> Habilita o deshabilita el uso de releases no oficiales o en modo beta
+El archivo global JSON nos permite configurar el programa para que se ejecute deacuerdo a las versiones que este el software
+en ocaciones por temas e creación de proyectos es necesaria una versión mas antigua por lo que es necesario utilizar el archivo
+global JSON para poder asignar sobre que versión de .NET se ejecutara el prigrama.
+
+LIBRERIAS:
+    NUGET: Es el gestor de paquetes de .NET, podemos encontrar diferentes librerías publicas y compartidas por otros desarrolladores.
+           Tenemos la posibilidad de crear nuestro propio servidor NUGET para liberías cerradas y qye sean consumidas por nuestra organización.
+
+    FLUJO DE PAQUETES ENTRE CREADORES, HOSTS Y COSUMIDORES.
+        CREADOR (PROJECT package sourse code) -- BUILD / PACK --> PACKAGE(one or more assembiles) -- PUBLISH --> HOST(nuget org)/(private host) -- Browser / install --> .NET project
+
+********** COMANDO DENTRO DE CONSOLA **********
+dotnet restore
+Comando para restaurar el codigo si en dado caso se realizo un cambio el cual afecto el mismo y marca un error.
+
+dotnet watch run
+Comando que ejecuta el proyecto de manera automatica al realizat un cambio y guardar el mismo.
+
+dotnet clean
+elimina el contenido del la compilación anterior dentro de la carpeta binaria
+ dotnet build
+ compilación de aplicación
+
+dotnet build --configuration release
+
+comando de compilacion que prepara la aplicacion para producción y elimina todo archivo que no sea necesario para su funcionamiento correcto
+    esto mejora para la aplicacion de la manera mas optioma.
+
+dotnet --info
+Muestra la versiones que se tienen instaladad en el equipo que pertenescan a .NET
+
+dotnet --version
+Muestra la versión con la que se ejecutara dentro del proyecto, siempre estara por defecto la version mas reciente.
